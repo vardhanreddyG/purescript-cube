@@ -1,8 +1,6 @@
 # purescript-cube
 fork or clone repository
-
-cd repository
-
-bower update 
-
-bower server
+```
+cd purescript-cube
+bower update or bower i
+pulp server
